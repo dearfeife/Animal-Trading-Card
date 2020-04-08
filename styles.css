@@ -1,0 +1,45 @@
+/*list style*/
+span{
+    font-weight:bold;
+}
+ul{
+    list-style-type:none;
+    margin:0;
+    padding:0;  
+}
+/*image size and properties*/
+img{
+    width: 300px;
+    height:250px;
+    margin:auto; 
+    padding-left: 0.6em;
+    padding-bottom: 0.5em;
+}
+/*heading position*/
+h3{
+    padding-left: 0.5em;
+}
+/*text style for interesting facts*/
+.fact{
+    text-align:left;
+    font-style:italic;
+}
+/*Outer box size & properties*/
+.box{ 
+    width:320px;
+    border:1px solid rgb(207, 203, 203);
+    margin:auto;
+    padding-bottom: 0.5em;
+    box-shadow:6px 6px rgb(236, 230, 230);
+}
+/* small box's size and properties for animals info*/
+.smallbox{
+    width: 285px;
+    border: 1px solid rgb(207, 203, 203);
+    margin:auto;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-bottom: 0.8em;
+}
+
+
